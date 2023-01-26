@@ -23,6 +23,10 @@ public class ArithmeticOperations {
 	     System.out.println(totalPay);
 		
 		
+	     
+	     
+		
+		
 		
 	
 	}
